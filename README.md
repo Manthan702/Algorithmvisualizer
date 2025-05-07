@@ -10,8 +10,3 @@ Support this project by leaving a :star:
 |![](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/blob/master/res/merge_sort.gif?raw=true) Merge sort | ![](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/blob/master/res/quick_sort.gif?raw=true) Quick sort |![](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/blob/master/res/selection_sort.gif?raw=true) Selection sort |
 
 
-## How to run
-
-- Clone GitHub repository `git clone https://github.com/LucasPilla/Sorting-Algorithms-Visualizer.git`
-- Install requirements: `pip3 install -r requirements.txt`
-- Run: `python3 src/main.py`
